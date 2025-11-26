@@ -29,3 +29,7 @@ Aprender a usar novas ferramentas.
 
 A seguir as ferramentas que usei para o projeto
 - IDE: <a href="https://visualstudio.microsoft.com/insiders/?rwnlp=pt-br">Visual Studio</a>
+
+<h2 id=author>:grin: Autor </h2>
+
+Developed by <a href="https://www.linkedin.com/in/henrique-ignacio-ferreira-souza-6517562b9/" target="_blank">Henrique Ignacio</a>
